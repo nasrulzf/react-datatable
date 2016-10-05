@@ -1,0 +1,25 @@
+
+body {
+    text-align:center;
+}
+#max-content {
+    max-width: 1000px;
+    margin:auto;
+    padding-top:25px;
+}
+table th {
+    cursor : pointer;
+}
+table th:hover{
+    font-weight: bold;
+}
+
+.pagination {
+    margin:0px;
+}
+
+.text-middle {
+    display: block;
+    vertical-align: center;
+    padding:5px 0px;
+}
